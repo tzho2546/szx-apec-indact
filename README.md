@@ -35,7 +35,7 @@ Furthermore, this industrial action is expanding beyond digital infrastructure. 
 
 * **Physical Availability:** `OFF-GRID / CROSS-BORDER` (Zero local standby in Shenzhen)
 * **Departure Window:** `2026/11/16` (Unconfirmed) — Outbound deployment on opening day remains contingent on real-time APEC traffic restrictions, checkpoint clearance friction, and unresolved immigration ambiguities regarding seminar attendance.
-* **Communications & Reachability:** While **incidental replies to work emails remain compliant** with Hong Kong visitor conditions, **we cannot guarantee that local mobile carrier networks will be usable throughout the trip**. Expect intermittent dead zones, cross-border roaming handoff drops, and unacknowledged messages for the duration of the relocation.
+* **Communications & Bandwidth Conservation:** While **incidental replies to work emails remain compliant** with Hong Kong visitor conditions, **we cannot guarantee that local mobile carrier networks will be usable throughout the trip**. **Therefore, we are blocking out all communications to prevent China Mobile Hong Kong (CMHK)** from being held responsible —- expect a total cellular blackout for the duration of the relocation.
 * **Operational Contingency:** Should `2026/11/16` summit security measures bottleneck outbound transit, the 2-day physical walkout will dynamically shift to a mid-week window (`2026/11/17` – `2026/11/19`).
 
 ---
