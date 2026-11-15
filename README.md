@@ -22,7 +22,7 @@ This digital picket line is enacted in direct response to the Shenzhen Municipal
 1. **No Statutory Downtime (Breaking Historical Precedent):**  
    Unlike previous host cities (such as Shanghai in 2001 and Beijing in 2014) that granted city-wide holidays to ease summit logistics, Shenzhen explicitly refused to declare a unified public holiday—offloading all disruption onto workers and employers under vague "flexible work" advisories.
 2. **Weaponizing the School Calendar as a Traffic Valve:**  
-   While workers are expected to commute and produce through heightened security checkpoints and road restrictions, the municipality conveniently scheduled a four-day **"Autumn Break" (`秋假`)** exclusively for primary and secondary schools from `2026/11/17` to `2026/11/20` to thin out rush-hour traffic.
+   While workers are expected to commute and produce through heightened security checkpoints and road restrictions, the municipality conveniently scheduled a four-day **"Autumn Break" (`秋假`)** exclusively for primary and secondary schools from `2026/11/16` to `2026/11/20` to thin out rush-hour traffic.
 3. **Token Commuter Incentives Over Real Rest:**  
    Rather than compensating residents for city-wide administrative friction, authorities opted for 50% discounts on buses and metro lines alongside voluntary car-free points and commemorative transit cards.
 
